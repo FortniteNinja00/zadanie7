@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zadanie78</string>
+    <string-array name="colors_array">
+        <item>Czerwony</item>
+        <item>Zielony</item>
+        <item>Niebieski</item>
+        <item>Żółty</item>
+        <item>Czarny</item>
+    </string-array>
+</resources>
